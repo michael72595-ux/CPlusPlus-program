@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Nielsen_CS210_AirgeadProject/Nielsen_CS210_AirgeadProject.vcxproj" />
+</Solution>
